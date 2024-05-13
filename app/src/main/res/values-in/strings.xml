@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Language Form</string>
+    <string name="jenis_kelamin">jenis Kelamin</string>
+    <string-array name="jenis_Kelamin">
+        <item>Laki-laki</item>
+        <item>perempuan</item>
+    </string-array>
+
+</resources>

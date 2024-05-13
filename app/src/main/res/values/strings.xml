@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Language Form</string>
+    <string name="jenis_kelamin">Genero</string>
+    <string-array name="jenis_Kelamin">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+</resources>
